@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SiddhantShah14
+- 👀 I’m interested in learning about the virtual world through development and different kinds of languages present in the world.
+- 🌱 I’m currently learning JS alongwith React.JS. I have learnt Java and C++ upto a certain level and will continue to learn those as well.
+- I'm currently studying B.Tech in Computer Engineering at Dwarkadas J. Sanghvi College of Engineering. 
